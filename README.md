@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @allan-wang9
-- 👀 I’m a final year computer science student at Carleton Univerity and currently interning at Nokia as an Software Developer.
 - 📫 You can reach me at <allanwang@cmail.carleton.ca> !
 
 <!---
